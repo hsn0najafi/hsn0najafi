@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on creating my own little computer from scratch.
+- 🔭 I’m currently working on creating my own little computer from sssssscraaaaaatch.
 - 🌱 I’m currently learning node.js internals.
 - 👯 I’m looking to collaborate on some group sports activity.
 - 🤔 I’m looking for help with *.*.
