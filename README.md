@@ -7,4 +7,4 @@
 - 💬 Ask me about Linux, politics, healthy food, car engines and the history of Iran.
 - 📫 How to reach me: @hsn0najafi on Instagram, Telegram and all the other social media platforms.
 - 😄 Pronouns: ```(x: any) => x;```.
-- ⚡ Fun fact: I did farming.
+- ⚡ Fun fact: I've done farming.
