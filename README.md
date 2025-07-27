@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with *.*.
 - 💬 Ask me about Linux, politics, healthy food, car engines, love and the history of Iran.
 - 📫 How to reach me: @hsn0najafi on Instagram.
-- 😄 Pronouns: ```(x: any) => x;```.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I've done farming.
